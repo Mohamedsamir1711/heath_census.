@@ -13,6 +13,11 @@ nav {
     justify-content: space-between;
     
   }
+
+  .container {
+    text-align: center;
+    margin: auto;
+  }
   
   nav ul {
     list-style-type: none;
